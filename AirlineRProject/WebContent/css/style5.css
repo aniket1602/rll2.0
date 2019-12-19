@@ -1,0 +1,18 @@
+  .container{
+        border:2px solid blue;
+        text-align:center;
+         height:300px;
+        width:300px;
+    }
+    body{
+        padding:90px;
+		background-color:gray;
+    }
+    h1{
+        margin:auto;
+    }
+    .row{
+        height:55px;
+        width:299px;
+        background-color:blue;
+    }
